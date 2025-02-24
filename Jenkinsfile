@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 echo "Checkout the source code from the Git repository"
-                //git 'https://github.com/yourusername/yourrepository.git'
+                //git 'https://github.com/Mrunmayii/yourrepository.git'
             }
         }
 
