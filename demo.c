@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-printf("hello world");
-  printf("Testing poll");
+printf("hello world\n");
+printf("Testing poll\n");
+printf("poll 2\n");
 
 return 0;
 }
